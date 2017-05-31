@@ -1,4 +1,5 @@
 from django.db import models
+#from cms.models import Book, Impression
 
 
 class Book(models.Model):
